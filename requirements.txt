@@ -1,0 +1,6 @@
+ebooklib>=0.18
+beautifulsoup4>=4.12
+xhtml2pdf>=0.2.16
+reportlab>=4.0
+lxml>=5.0
+customtkinter>=5.2
